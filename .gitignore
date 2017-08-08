@@ -1,0 +1,5 @@
+metastore_db
+fl_output
+spark-warehouse
+main_first.py
+main.pyc
